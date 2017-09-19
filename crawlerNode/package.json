@@ -1,0 +1,19 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "node crawler",
+  "main": "look.html",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "crawlar\u001b[D\u001b[D\u001b[e\u001b[C"
+  ],
+  "window":{
+    "title":"111",//窗口主题
+    "icon":"LOGO.png",//窗口图标
+    "toolbar":false,//开启调试工具，和浏览器一个样
+  }
+  "author": "hsir1990",
+  "license": "ISC"
+}
